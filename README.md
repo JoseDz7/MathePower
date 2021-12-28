@@ -24,5 +24,5 @@
 
 <!-- NO COPIAR, JOSÉ DÍAZ It's the beast -->
 [version]: https://img.shields.io/badge/Versi%C3%B3n-Script%3A%20V.1.0-green
-[tested]: https://img.shields.io/badge/Probado-Kali%20Linux%20%7C%20Windows%20%7C%20Termux-blue
+[tested]: https://img.shields.io/badge/Probado-Kali%20Linux(no)%20%7C%20Windows%2(si)0%7C%20Termux(no)-blue
 [autor]: https://img.shields.io/badge/Author-%40⍣᭕ᬁ᭖José_Díaz᭖᭕ᬁ⍣-red
