@@ -16,9 +16,9 @@
 - Si deseas contactarme >>> +52 2283821202 (MX) 🇲🇽
 
 - Si deseas apoyarme con una estrella en mis repositorios >>> [sharkcode](https://github.com/piratainformatico2)
-
 </details>
 </br>
+
 
 ## Calculadora MathePower
 ![Image Text](https://github.com/piratainformatico2/MathePower/blob/main/img/IMG_20211228_124110_606.jpg)
